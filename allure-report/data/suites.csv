@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 13 19:05:56 IST 2023","Wed Dec 13 19:06:04 IST 2023","7607","","tests\baseUrl\baseUrl.test.ts","","","","Goto Sign up page",""
+"passed","Wed Dec 13 18:25:11 IST 2023","Wed Dec 13 18:25:11 IST 2023","84","","tests\tags.test.ts","","","","Test signup page @smoke",""
+"passed","Wed Dec 13 18:25:11 IST 2023","Wed Dec 13 18:25:11 IST 2023","30","","tests\tags.test.ts","","","","Test add to cart page @smoke",""
+"passed","Wed Dec 13 19:06:04 IST 2023","Wed Dec 13 19:06:13 IST 2023","8795","","tests\baseUrl\baseUrl.test.ts","","","","Goto Login up page",""
+"passed","Wed Dec 13 18:25:11 IST 2023","Wed Dec 13 18:25:11 IST 2023","20","","tests\tags.test.ts","","","","Test login page @reg",""
+"passed","Wed Dec 13 19:06:13 IST 2023","Wed Dec 13 19:06:17 IST 2023","4021","","tests\baseUrl\baseUrl.test.ts","","","","Goto workspace up page",""

@@ -1,0 +1,28 @@
+{
+  "name": "playwright-test-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test-us": "npx playwright test --update-snapshots"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.4",
+    "allure-playwright": "^2.9.2",
+    "experimental-allure-playwright": "0.0.3",
+    "jest": "^29.7.0",
+    "jest-html-reporters": "^3.1.5",
+    "playwright": "^1.39.0",
+    "ts-node": "10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "type": "^2.7.2"
+  }
+}
